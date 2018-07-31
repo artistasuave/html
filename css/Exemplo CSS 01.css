@@ -1,0 +1,36 @@
+		.botao:hover{
+			background-color: black;
+			color: #C53B3B;
+		}
+		.botao{
+			display: block;
+			background-color: #FFBDBD;
+			color: #8697FF;
+			font-weight: bold;
+			width: 100px;
+			height: 20px;
+			text-decoration: none;
+			text-align: center;
+			border-radius: 20px;
+
+			border-color: deeppink;
+			border-width: 1px;
+			border-style: solid;
+			border-top-color: blue;
+			border-bottom-color: blue;
+			/*border: 1px solid black; */
+
+		}
+		.imagem{
+			background-image: url(../imagens/bandida.jpg);
+			height: 800px;
+			background-repeat: no-repeat;
+			background-position: top center;
+		}
+		.campo-texto{
+			border-bottom: 1px solid red;
+			border-top-style: none;
+		}
+		.campo-texto:active{
+			border-bottom: 1px solid deeppink;
+		}

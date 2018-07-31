@@ -1,0 +1,13 @@
+body{
+	margin: 0;
+	padding: 0;
+}
+
+.lista{
+	margin: 0 15%;
+}
+
+thead tr, tfoot tr{
+	background-color: dockmagenta;
+
+}
